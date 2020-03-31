@@ -1,2 +1,2 @@
 # Network-Traffic-Testbed
-This repository is meant to demonstrate how to create a testbed of network traffic using Python and shell scripts on Raspberry Pi processing boards. 
+This repository is meant to demonstrate how to create a testbed of network traffic using Python and shell scripts on Raspberry Pi processing boards. The branches of this repsoitory breaks down the steps required to build the testbed from scratch starting with a basic client/server connection between Raspberry Pi's and ending with a dense network of as multiple Raspberry Pi's controlled by a client host computer simultaneously running standard network perfromance measurements through each processing board. 
