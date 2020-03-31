@@ -1,2 +1,2 @@
 # Network-Traffic-Testbed
-This repository is meant to demonstrate how to create a testbed of network traffic using Python and shell scripts on Raspberry Pi processing boards. 
+This branch is meant to show how to initiate a simple server and client via Pythons socket module on two separate Raspberry Pi’s (or any devices running Linux). Once the client/server connection is established, the server will send the message “I am SERVER” to the client while the client will send the message “I am CLIENT” to the server. The server must always be initiated before any client makes a request. 
